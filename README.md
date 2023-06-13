@@ -1,0 +1,1 @@
+# Mini_Project-Resize_image_to_50percent_smaller
